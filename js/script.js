@@ -47,7 +47,7 @@ class Effect {// Copyright Axeyed Tran
       this.symbols[i] = new Symbol(i, 0, this.fontSize, this.canvasHeight);// Copyright Axeyed Tran
     }// Copyright Axeyed Tran
   }// Copyright Axeyed Tran
-  rezie(width, height){// Copyright Axeyed Tran
+  rezize(width, height){// Copyright Axeyed Tran
     this.canvasWidth = width;// Copyright Axeyed Tran
     this.canvasHeight = height;// Copyright Axeyed Tran
     this.columns = this.canvasWidth/this.fontSize;// Copyright Axeyed Tran
