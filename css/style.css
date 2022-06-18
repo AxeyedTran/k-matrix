@@ -1,0 +1,16 @@
+/* Copyright Axeyed Tran */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}/* Copyright Axeyed Tran */
+body{
+    overflow: hidden;
+    background: black;
+}/* Copyright Axeyed Tran */
+canvas{
+    position: absolute;
+    top: 0;
+    left: 0;
+}/* Copyright Axeyed Tran */
+/* Copyright Axeyed Tran */
